@@ -4,7 +4,7 @@ import model.Wallet;
 import repository.WalletRepository;
 
 /**
- * Контроллер
+ * Контроллер ..
  */
 public class WalletController {
     private final WalletRepository walletRepository;
